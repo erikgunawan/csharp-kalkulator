@@ -1,4 +1,4 @@
 csharp-kalkulator
 =================
 
-Aplikasi Kalkulator Sederhana
+Aplikasi Kalkulator Sederhana Menggunakan bahasa C#
